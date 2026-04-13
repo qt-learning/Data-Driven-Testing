@@ -14,10 +14,25 @@ suite_data_driven_section2: Example showing how to use findFile() to return file
 
 suite_data_driven_section4: Example showing how to create data-driven code. Uses testdata from product_data.tsv in Test Suite Resources to provide input for selecting buttons in the calqlatr app and expected output to compare to the displayed result in the calqlatr. Tested with "Squish for Qt 7.2.0" package that supports Qt 6.5 applications built with MinGW 64-bit.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
 - Qt Documentation: https://doc.qt.io
 - Qt Forum: https://forum.qt.io
 - Qt Academy: https://qt.io/academy
+
+## Licensing Information
+
+```
+Copyright (C) 2026 Qt Group.
+SPDX-License-Identifier: LicenseRef-Qt-Commercial OR BSD-3-Clause
+```
+
+This code repository contains code samples and other materials designed to help you learn and practice Squish GUI testing. The materials provided are intended for educational purposes to help test the skills you've gained from completing the Data-Driven-Testing course.
+
+### Terms and Conditions
+
+If you, your employer, or the legal entity you act on behalf of hold commercial license(s) with a Qt Group entity, this software package constitutes Pre-Release Code under the Qt License/Frame Agreement governing those licenses, and that agreement's terms and conditions govern your access and use of this software package.
+
+This software package may provide links or access to third party libraries or code (collectively "Third-Party Software") to implement various functions. Use or distribution of Third-Party Software is discretionary and in all respects subject to applicable license terms of applicable third-party right holders.
